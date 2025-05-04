@@ -11,6 +11,6 @@ namespace custom {
     //% blockId="map"
     //% block
     export function increment(value: number): number {
-        return value + 2;
+        return value + 5;
     }
 }
